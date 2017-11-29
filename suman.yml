@@ -1,0 +1,2 @@
+--- #webserver
+- hosts: webserver
